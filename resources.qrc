@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="format_align_left.svg">material_icons/ic_format_align_left_white_48px.svg</file>
+        <file alias="create.svg">material_icons/ic_create_white_48px.svg</file>
+        <file alias="help.svg">material_icons/ic_help_white_48px.svg</file>
+        <file alias="build.svg">material_icons/ic_build_white_48px.svg</file>
+        <file alias="bug_report.svg">material_icons/ic_bug_report_white_48px.svg</file>
+        <file alias="apps.svg">material_icons/ic_apps_white_48px.svg</file>
+    </qresource>
+</RCC>
