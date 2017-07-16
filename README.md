@@ -2,7 +2,7 @@
 
 Qt で QToolbar をスタイルシートにより見た目をカスタマイズするサンプルソースです。
 
-[じゅげむったーの開発日記 その４](http://www.sharkpp.net/blog/2017/06/27/jugemutter-development-diary-4th.html) で利用されています。
+[じゅげむったーの開発日記 その４](http://www.sharkpp.net/blog/2017/07/16/jugemutter-development-diary-4th.html) で利用されています。
 
 ![画面](./screenshot.png)
 
